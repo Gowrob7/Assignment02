@@ -63,7 +63,7 @@ nav > span{
 }
 
 .banner-section {
-    background-image: url(/images/hero-bg.png);
+    background-image: url("images/hero-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -432,7 +432,7 @@ display: flex;
     max-width: 100%;
     padding: 50px;
     
-    background-image: url(images/footer-bg.png);
+    background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
