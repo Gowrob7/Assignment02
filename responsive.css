@@ -82,7 +82,13 @@
         width: 100%;
     }
 
-    
+    #horozontal{
+        background-color: #575555;
+    border: none;
+    max-width: 63%;
+    margin-left: 97px;
+    margin-top: 12px;
+    }
     #about-section {
         height: auto;
         padding-bottom: 40px;

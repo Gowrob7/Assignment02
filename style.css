@@ -49,6 +49,7 @@ nav > span{
     font-size: 1em;
     font-weight: 700;
     background: linear-gradient(360deg, #F7E93F ,#FB09B4 , #9100F8);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -194,7 +195,7 @@ nav > span{
 .thousands{
     margin-top: 30px;
 }
-.about-section > hr{
+.about-section , #horozontal{
     display: flex;
     justify-content: center;
     align-items: center;
